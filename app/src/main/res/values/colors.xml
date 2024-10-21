@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="text_white">#FFFFFF</color>         <!-- Texto para TextView y Botón-->
+    <color name="gold_soft">#FFC107</color>          <!-- Fondo para Botón -->
+    <color name="dark_gray">#212121</color>          <!-- Texto para EditText -->
+    <color name="dark_gray_border">#9E9E9E</color>  <!-- Borde para EditText -->
+    <color name="very_light_gray">#F5F5F5</color>   <!-- Fondo para CardView -->
+    <color name="medium_gray_shadow">#BDBDBD</color> <!-- Sombra para CardView -->
 </resources>
